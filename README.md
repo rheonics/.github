@@ -3,7 +3,7 @@ Rheonics Process Automation Software Tools for Density Meter, Viscometer, Consis
 
 # Rheonics GmbH - Revolutionizing Fluid Measurement
 
-[![Rheonics Logo](https://www.rheonics.com/wp-content/uploads/2022/08/Rheonics_Logo_RGB_pos.svg)](https://www.rheonics.com/)
+[![Rheonics Logo](https://cdn.rheonics.com/wp-content/uploads/2024/08/Rheonics_Logo_blue_singleline-medium-01.png)](https://www.rheonics.com/)
 
 Welcome to the Rheonics GitHub organization! We're a leading provider of innovative fluid measurement solutions for various industries. This repository provides resources related to our products, technology, and software tools.
 
